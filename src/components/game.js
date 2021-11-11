@@ -1,4 +1,4 @@
-import React,{Component} from "react";
+import React from "react";
 import Board from "../App";
 class Game extends React.Component {
   render() {

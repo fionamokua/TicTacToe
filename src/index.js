@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Board1 from './Sudoku/Board';
+import Board from './App,js';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Board1 />
+    <Board />
   </React.StrictMode>,
   document.getElementById('root')
 );
